@@ -2,7 +2,7 @@
 I am currently a Doctor of Engineering candidate supervised by [**Prof. Jiming Chen**](https://person.zju.edu.cn/jmchen), [**Prof. Shibo He**](https://person.zju.edu.cn/shibohe/683161.html), and [Asst.Prof. Chaojie Gu](https://person.zju.edu.cn/gucj) at Zhejiang University, China. 
 I received my Master of Engineering degree with the College of Electrical Engineering and Automation, Fuzhou University supervised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1010/3365.htm).
 
-My research interests cover Industrial Internet of Things (e.g., OPC UA), Intelligent Production Scheduling, and Artificial Intelligence applications in the industrial manufacturing field (e.g., Reinforcement Learning and Large Language Models).
+My research interests cover Industrial Internet of Things, Information Modeling (e.g., OPC UA), Intelligent Production Scheduling, and Artificial Intelligence applications in the industrial manufacturing field (e.g., Reinforcement Learning and Large Language Models).
 My current research projects mainly focus on LLM/DRL-based data collection, resource optimization, and production scheduling within multi-objective, dynamic interference, and complex (i.e., large-scale and distributed collaboration) industrial discrete manufacturing environments.
 
 I have published 10+ papers <a href='https://scholar.google.com/citations?user=l-zF-W0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRKWin93%2FRKWin93.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journal such as TII, IoTJ, JAS, etc..
