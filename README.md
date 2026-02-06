@@ -29,6 +29,8 @@ Click the Action of the REPO website and enable the workflows by clicking "I und
 # 📫 Homepages
 - Personal Pages: https://rkwin93.github.io
 - Google Scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=l-zF-W0AAAAJ
+- dblp: https://dblp.org/pid/203/9451.html
+- semanticscholar: https://www.semanticscholar.org/author/Rongkai-Wang/22260912
 
 
 <!-- 这是注释内容，不会在渲染时显示 -->
