@@ -1,6 +1,6 @@
 ## Hi there 👋
 I received my Doctor of Engineering supervised by [**Prof. Jiming Chen**](https://person.zju.edu.cn/jmchen), [**Prof. Shibo He**](https://person.zju.edu.cn/shibohe/683161.html), and [Asst.Prof. Chaojie Gu](https://person.zju.edu.cn/gucj) at Zhejiang University, China. 
-I received my Master of Engineering degree with the College of Electrical Engineering and Automation, Fuzhou University supervised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1010/3365.htm).
+I received my Master of Engineering degree with the College of Electrical Engineering and Automation, Fuzhou University supervised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1040/9647.htm).
 
 My research interests cover Industrial Internet of Things, Information Modeling (e.g., OPC UA), Intelligent Production Scheduling, and Artificial Intelligence applications in the industrial manufacturing field (e.g., Reinforcement Learning and Large Language Models).
 My current research projects mainly focus on LLM/DRL-based data collection, resource optimization, and production scheduling within multi-objective, dynamic interference, and complex (i.e., large-scale and distributed collaboration) industrial discrete manufacturing environments.
@@ -43,7 +43,7 @@ Click the Action of the REPO website and enable the workflows by clicking "I und
 - *2025.11*:A paper about [**Two-dimensional cutting strategy for defective wooden boards with parts clustering and two-stage algorithm**](https://www.tandfonline.com/doi/full/10.1080/17480272.2025.2598451) is accepted by Wood Material Science & Engineering! Congratulations to Xiaofen Zhang!
 - *2025.11*:A paper about [**Proximity Estimation with Position Adjustment Based on Signal-Spatial Relations for Similar Industrial Devices Identification**](https://www.sciencedirect.com/science/article/abs/pii/S0957417425040746) is accepted by Expert Systems With Applications (**ESWA-2025**)! Congratulations to Ping Huang!
 - *2025.10*: &nbsp; I joined the Industrial Internet of Things (IIoT) Technology and Application Committee of the Chinese Association of Automation (CAA) as a member.
-- *2025.08*: &nbsp;🎉🎉 I joined the College of Electrical Engineering and Automation ([Homepage](https://dqxy.fzu.edu.cn/info/1041/9707.htm)) at Fuzhou University with [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1010/3365.htm).
+- *2025.08*: &nbsp;🎉🎉 I joined the College of Electrical Engineering and Automation ([Homepage](https://dqxy.fzu.edu.cn/info/1041/9707.htm)) at Fuzhou University with [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1040/9647.htm).
 - *2025.03*: I have passed my PhD defense at ZJU~!
 - *2024.12*: A paper about [**Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model**](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125114) is accepted by IEEE/CAA Journal of Automatica Sinica (**JAS-2024**)! \| [\[code\]](https://github.com/RKWin93/Text2UA).
 - *2024.10*: A paper about [**End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning**](https://ieeexplore.ieee.org/document/10734312) is accepted by IEEE Internet of Things Journal (**IoTJ-2024**)! \| [\[code\]](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP).
